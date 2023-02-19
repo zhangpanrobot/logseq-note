@@ -1,0 +1,2 @@
+- yum repolist
+- yum-config-manager --disable {repo name}

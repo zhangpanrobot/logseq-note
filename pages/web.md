@@ -15,6 +15,8 @@
 			- Marko
 			- Qwik
 		- [Island Architecture | Maina Wycliffe](https://mainawycliffe.dev/blog/island-architecture/)
+		- [Building JavaScript Frameworks to Conquer eCommerce](https://dev.to/this-is-learning/building-javascript-frameworks-to-conquer-ecommerce-3glc)
+		-
 - Evolution
 	- [The Evolution of Frontend DX](https://uxplanet.org/the-evolution-of-frontend-dx-5b3597f58f1a)
 	-
