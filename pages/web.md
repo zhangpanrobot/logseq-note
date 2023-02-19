@@ -1,0 +1,20 @@
+- CMS
+	- contentful
+		- headless cms, for content
+	- strapi
+	- netlify
+- animation
+	- framer motion
+	- react motion
+	- popmotion
+		- animation library
+- Architecture
+	- Islands
+		- Framework
+			- Astro
+			- Marko
+			- Qwik
+		- [Island Architecture | Maina Wycliffe](https://mainawycliffe.dev/blog/island-architecture/)
+- Evolution
+	- [The Evolution of Frontend DX](https://uxplanet.org/the-evolution-of-frontend-dx-5b3597f58f1a)
+	-

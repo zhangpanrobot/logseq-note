@@ -1,0 +1,9 @@
+- Classification
+	- Unsupervised
+		- clustering
+	- Supervised
+		- classification
+		- regression
+-
+- Learning Platform
+	- paper with code
