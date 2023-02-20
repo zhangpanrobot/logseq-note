@@ -15,16 +15,16 @@
 - 1 = Execute
 - 2 = Write
 - 4 = Read
--
-- Permission numbers are:
-- 0 = ---
-- 1 = --x
-- 2 = -w-
-- 3 = -wx
-- 4 = r-
-- 5 = r-x
-- 6 = rw-
-- 7 = rwx
+- | Binary | Octal | Permission |
+  | ---- | ---- | ---- |
+  | 000 | 0 | — |
+  | 001 | 1 | –x |
+  | 010 | 2 | -w- |
+  | 011 | 3 | -wx |
+  | 100 | 4 | r– |
+  | 101 | 5 | r-x |
+  | 110 | 6 | rw- |
+  | 111 | 7 | rwx |
 - Each number for each access class
 	- 700 will give read, write, and execute permissions for the user only
 	- 777 will give read, write, and execute permissions for everyone
