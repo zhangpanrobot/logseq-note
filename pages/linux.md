@@ -10,6 +10,11 @@
   | group members’ permissions | -rwx**r-x**r-x |
   | others’ permissions | -rwxr-x**r-x** |
 - ![Diagram of the components in chmod](https://www.pluralsight.com/content/dam/pluralsight2/b2c-blog-files/seo-refresh/linux-file-permissions/Linux-File-Permissions-2.webp)
+- 0 = No Permission
+- 1 = Execute
+- 2 = Write
+- 4 = Read
+-
 - Permission numbers are:
 - 0 = ---
 - 1 = --x
@@ -19,6 +24,6 @@
 - 5 = r-x
 - 6 = rw-
 - 7 = rwx
-- Each number for each access class;
+- Each number for each access class
 	- 700 will give read, write, and execute permissions for the user only
 	- 777 will give read, write, and execute permissions for everyone
