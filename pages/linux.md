@@ -19,6 +19,6 @@
 - 5 = r-x
 - 6 = rw-
 - 7 = rwx
-  each number for each access class;
-- 700 will give read, write, and execute permissions for the user only
-- 777 will give read, write, and execute permissions for everyone.
+- Each number for each access class;
+	- 700 will give read, write, and execute permissions for the user only
+	- 777 will give read, write, and execute permissions for everyone
