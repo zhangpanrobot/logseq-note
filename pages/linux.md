@@ -6,6 +6,7 @@
   | o (other) | = (set exact access) | x (execute) |
   | a (all: u, g, and o)| | |
 - | Access class | permission |
+  | ---- | ---- | ---- |
   | the user’s (owner’s) permissions | -**rwx**r-xr-x |
   | group members’ permissions | -rwx**r-x**r-x |
   | others’ permissions | -rwxr-x**r-x** |
