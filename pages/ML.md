@@ -4,6 +4,15 @@
 	- Supervised
 		- classification
 		- regression
--
+- Prompt Engineering
+	- 人工构造
+		- 方法
+			- prefix prompt(在前缀基础上补全句子)
+			- cloze prompt(句子填空)
+		- Paper
+			- Language Models as Knowledge Bases?2019
+			- Template-Based Named Entity Recognition Using BART（ACL 2021）
+			-
+			-
 - Learning Platform
 	- paper with code
