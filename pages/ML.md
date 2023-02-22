@@ -4,6 +4,11 @@
 	- Supervised
 		- classification
 		- regression
+- NLP四种范式 [CMU 刘鹏飞：NLP的第四范式 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/397004230)
+	- **P1. 非神经网络时代的完全监督学习** （Fully Supervised Learning, Non-Neural Network）
+	- **P2. 基于神经网络的完全监督学习** (Fully Supervised Learning, Neural Network)
+	- **P3. 预训练，精调范式** (Pre-train, Fine-tune)
+	- **P4. 预训练，提示，预测范式**（Pre-train, Prompt, Predict）
 - Prompt Engineering
 	- 人工构造
 		- 方法

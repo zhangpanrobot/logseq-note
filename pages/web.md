@@ -20,3 +20,9 @@
 - Evolution
 	- [The Evolution of Frontend DX](https://uxplanet.org/the-evolution-of-frontend-dx-5b3597f58f1a)
 	-
+- Interview
+	- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+	- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+	- [leetcode](https://www.techinterviewhandbook.org/grind75a)
+	-
+-

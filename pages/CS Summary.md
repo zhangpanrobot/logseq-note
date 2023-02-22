@@ -1,0 +1,3 @@
+- [每个程序员都应该了解的内存知识](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
+- [Modern Microprocessors](https://www.lighterra.com/papers/modernmicroprocessors/)
+-

@@ -1,0 +1,15 @@
+- Design System
+	- Source
+		- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
+		- [Atomic Design Principles & Methodology 101 | Adobe XD Ideas](https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
+		- [Atomic Design methodology for building design systems](https://blog.kamathrohan.com/atomic-design-methodology-for-building-design-systems-f912cf714f53)
+	- Tourist
+		- [Foundations of UX](https://www.coursera.org/learn/foundations-user-experience-design)
+	- Best Practice
+		- [Lightning Design System](https://www.lightningdesignsystem.com/)
+	- Space
+		- [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+		- [Applying white space in UI design](https://uxdesign.cc/whitespace-in-ui-design-44e332c8e4a)
+	- Color
+		- [Ultimate Guide to Color in UX/UI Design](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3)
+-
