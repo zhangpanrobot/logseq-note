@@ -10,6 +10,8 @@
 	- **P3. 预训练，精调范式** (Pre-train, Fine-tune)
 	- **P4. 预训练，提示，预测范式**（Pre-train, Prompt, Predict）
 - Prompt Engineering
+	- source
+		- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 	- 人工构造
 		- 方法
 			- prefix prompt(在前缀基础上补全句子)
@@ -21,3 +23,12 @@
 			-
 - Learning Platform
 	- paper with code
+- 入门
+	- 白话机器学习算法--笔记
+		- 数据科学研究步骤
+			- 准备和处理待分析数据
+			- 挑选合适算法
+			- 算法参数调优
+			- 创建并比较模型，选出最优模型
+- Company
+	- Luma AI
