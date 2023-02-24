@@ -1,0 +1,12 @@
+- [Civitai](https://civitai.com/)
+- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+-
+- 术语
+	- Sampler
+	- CFG scale
+	- steps
+	- seed
+- types
+	- LoRA
+	- embedding
+	- VAE

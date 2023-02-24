@@ -2,7 +2,10 @@
 - [优雅的提交你的 Git Commit Message - 掘金 (juejin.cn)](https://juejin.cn/post/6844903606815064077)
 - https://www.bilibili.com/video/BV16q4y1e7Cm/
 - [Stable Diffusion web UI (github.com)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
--
+- https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/#
+- [hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡ (github.com)](https://github.com/hwchase17/langchain/)
+- [openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision (github.com)](https://github.com/openai/whisper)
+- [Explore – Replicate](https://replicate.com/explore)
 -
 -
 - [Senior Software Engineer: Full Stack | Railway](https://railway.app/careers/full-stack)
