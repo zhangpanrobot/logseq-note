@@ -1,6 +1,8 @@
 - [Civitai](https://civitai.com/)
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)
--
+- [Transform Your Selfie into a Stunning AI Avatar with Stable Diffusion - Better than Lensa for Free - YouTube](https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
+- [Stable Diffusion prompt: a definitive guide - Stable Diffusion Art (stable-diffusion-art.com)](https://stable-diffusion-art.com/prompt-guide/)
+- 做个插件，去其它地方复制参数，将对应项填到本地SD
 - 术语
 	- Sampler
 	- CFG scale
