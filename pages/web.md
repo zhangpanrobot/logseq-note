@@ -25,4 +25,14 @@
 	- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 	- [leetcode](https://www.techinterviewhandbook.org/grind75a)
 	-
--
+- The Top 10 Websites for Coding Practice:
+	- 1. Hackerrank .com
+	  2. Leetcode .com
+	  3. Codewars .com
+	  4. Exercism .org
+	  5. Codeforces .com
+	  6. Hackerearth  .com
+	  7. Topcoder .com
+	  8. Coderbyte .com
+	  9. Projecteuler .net
+	  10. Codechef .com

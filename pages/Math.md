@@ -1,1 +1,11 @@
-- ![](https://64.media.tumblr.com/f5aac82306c19420afd3f35a5807e666/tumblr_okkmsl6oQA1w24mito1_1280.png)
+- Book
+	- 林华达推荐
+	- 概率
+		- **Applied Multivariate Statistical Analysis (5th Ed.)  by Richard A. Johnson and Dean W. Wichern**
+		- **Introduction to Graphical Models (draft version).  by M. Jordan and C. Bishop.**
+	- 分析
+		- **Principles of Mathematical Analysis, by Walter Rudin**
+		- **Introductory Functional Analysis with Applications, by Erwin Kreyszig.**
+	- 拓扑
+		- **Topology (2nd Ed.)  by James Munkres**
+		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
