@@ -1,2 +1,7 @@
 - [Uizard Autodesigner](https://uizard.io/autodesigner/)
 - /link
+- 您可以用：
+	- 用[http://Perplexity.ai](https://t.co/pRCepc5188) 代替 Google；
+	- 用 Poe 代替 ChatGPT.
+	- 用 Promptable 代替 OpenAI Playground.
+	- 用Elicit 代替 Google Scholar.
