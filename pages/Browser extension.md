@@ -1,0 +1,3 @@
+- [Youtube Playback Speed Control - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)
+- [Language Reactor - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
+-
