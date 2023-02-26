@@ -7,6 +7,8 @@
 		- [Foundations of UX](https://www.coursera.org/learn/foundations-user-experience-design)
 	- Best Practice
 		- [Lightning Design System](https://www.lightningdesignsystem.com/)
+		- [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
+		- [Material Design](https://m3.material.io/)
 	- Space
 		- [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 		- [Applying white space in UI design](https://uxdesign.cc/whitespace-in-ui-design-44e332c8e4a)
