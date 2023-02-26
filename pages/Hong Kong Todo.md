@@ -1,0 +1,2 @@
+- Paypal account
+- 中国银行跨境卡
