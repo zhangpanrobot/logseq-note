@@ -1,3 +1,4 @@
 - [每个程序员都应该了解的内存知识](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
+	- [optimization - How much of ‘What Every Programmer Should Know About Memory’ is still valid? - Stack Overflow](https://stackoverflow.com/questions/8126311/how-much-of-what-every-programmer-should-know-about-memory-is-still-valid)
 - [Modern Microprocessors](https://www.lighterra.com/papers/modernmicroprocessors/)
 -

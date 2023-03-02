@@ -1,0 +1,10 @@
+- html
+	- Semantic
+		- source
+			- [Semantic HTML (web.dev)](https://web.dev/learn/html/semantic-html/)
+		- relating to meaning, 易读易懂易维护；统一标准，方便沟通
+		- accessibility
+			- [Accessibility Object Model (AOM) — Part 1 | by BIBOSWAN ROY | Beginner's Guide to Mobile Web Development | Medium](https://medium.com/beginners-guide-to-mobile-web-development/accessibility-object-model-aom-part-1-8dc257fdb2d2)
+			- 方便相关AOM(Accessibility Object  Model)读取和检索，比如读屏器
+- css
+- js

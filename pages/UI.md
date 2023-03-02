@@ -3,8 +3,11 @@
 		- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
 		- [Atomic Design Principles & Methodology 101 | Adobe XD Ideas](https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
 		- [Atomic Design methodology for building design systems](https://blog.kamathrohan.com/atomic-design-methodology-for-building-design-systems-f912cf714f53)
+		- [Design Systems and Their Benefits - YouTube](https://www.youtube.com/watch?v=3TpiNrZlzt4)
+		-
 	- Tourist
 		- [Foundations of UX](https://www.coursera.org/learn/foundations-user-experience-design)
+		- [UI for beginners](https://method.ac/)
 	- Best Practice
 		- [Lightning Design System](https://www.lightningdesignsystem.com/)
 		- [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
