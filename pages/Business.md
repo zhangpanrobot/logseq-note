@@ -1,3 +1,5 @@
 - Blog
 	- [blur创始人](https://tieshunroquerre.com/)
+		- [How Douyin Bootstrapped Its Flywheel ](https://tieshunroquerre.com/blog/douyin)
+	- Andy Johns, Flywheel
 	-

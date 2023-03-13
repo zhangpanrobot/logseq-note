@@ -24,6 +24,7 @@
 - Learning Platform
 	- paper with code
 - 入门
+	- [Linear Algebra李宏毅](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
 	- 白话机器学习算法--笔记
 		- 数据科学研究步骤
 			- 准备和处理待分析数据
@@ -32,3 +33,6 @@
 			- 创建并比较模型，选出最优模型
 - Company
 	- Luma AI
+- TODO
+	- [python全民疯AI系列](https://www.youtube.com/watch?v=P42GqxCXkY8&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU)
+	-

@@ -9,3 +9,7 @@
 	- 用Elicit 代替 Google Scholar.
 - For fun
 	- [TOEFL打分](https://chatgpt-for-english-study.vercel.app/)
+-
+- Image generate
+	- [Virtual Photo Studio & AI Modelling Agency](https://www.deepagency.com/?ref=producthunt)
+	- [Take photo, add background](https://www.photoroom.com/)

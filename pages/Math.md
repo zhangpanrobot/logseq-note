@@ -9,3 +9,23 @@
 	- 拓扑
 		- **Topology (2nd Ed.)  by James Munkres**
 		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
+- 学科
+	- Discrete Mathematics
+		- 命题逻辑
+			- 联结词：$$ \neg \vee \wedge  $$
+			-
+		- PC(Proposition calc)
+			- Axious
+				- A1: $$A \to (B \to A)$$
+				- A2: $$(A\to (B \to C)) \to ((A \to B) \to (A \to C))$$
+				- A3: $$( \neg A \to \neg B) \to (B \to A)$$
+				- A4: $$\forall xA(x) \to A(t/x)$$
+				- A5: $$ \forall x (A(x) \to B(x)) \to (\forall xA(x) \to \forall x B(x))$$ (x为任一自由变元)
+				- A6: $$A \to \forall x A $$(A中无自由变元x)
+				- A7: （A1到A6的全称封闭式都是FC的公理）
+				-
+		- Proposition
+			- 化简规则  $$p \wedge q \Rightarrow p , p \wedge q \Rightarrow q $$
+			- 附加规则  $$ p \Rightarrow p \vee q, q \Rightarrow p \vee q$$
+			-
+			-

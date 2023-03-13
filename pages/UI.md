@@ -12,9 +12,11 @@
 		- [Lightning Design System](https://www.lightningdesignsystem.com/)
 		- [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
 		- [Material Design](https://m3.material.io/)
+		- [ColorBox](https://colorbox.io/)
 	- Space
 		- [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 		- [Applying white space in UI design](https://uxdesign.cc/whitespace-in-ui-design-44e332c8e4a)
 	- Color
 		- [Ultimate Guide to Color in UX/UI Design](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3)
+		- [Defining Colors in your Design System](https://uxdesign.cc/defining-colors-in-your-design-system-828148e6210a)
 -
