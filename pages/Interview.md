@@ -38,6 +38,17 @@
 				- `ref()` is calling `reactive()` behind the scenes
 				- Since `reactive()` works for objects and `ref()` calls `reactive()`, objects work for both
 				- BUT, `ref()` has a `.value` property for reassigning, `reactive()` does not have this and therefore CANNOT be reassigned
+- Typescript
+	- [dynamically assign properties to an object in TypeScript?](https://stackoverflow.com/questions/12710905/how-do-i-dynamically-assign-properties-to-an-object-in-typescript)
+		- ```
+		  // simple
+		  let obj: Record<string,any> = {}
+		  // or more
+		  interface MyType extends Record<string,any> {
+		      typesafeProp1?: number,
+		      requiredProp1: string,
+		  }
+		  ```
 - HTTP
 	- [Head-of-Line blocking from HTTP/1 to HTTP/3](https://github.com/rmarx/holblocking-blogpost)
 	- [一个故事讲完https](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513779&idx=1&sn=a1de58690ad4f95111e013254a026ca2&chksm=80d67b70b7a1f26697fa1626b3e9830dbdf4857d7a9528d22662f2e43af149265c4fd1b60024&scene=21)

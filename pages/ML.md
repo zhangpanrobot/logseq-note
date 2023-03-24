@@ -35,4 +35,7 @@
 	- Luma AI
 - TODO
 	- [python全民疯AI系列](https://www.youtube.com/watch?v=P42GqxCXkY8&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU)
-	-
+- 配套技术
+	- Vector search
+		- [What is a vector search engine?](https://dev.to/asmitbm/what-are-vector-search-engines-3lp1#:~:text=Vector%20search%20can%20be%20used,(Source%3A%20Microsoft%20AI))
+		- [What are Vector Embeddings? | Pinecone](https://www.pinecone.io/learn/vector-embeddings/)

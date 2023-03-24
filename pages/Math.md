@@ -11,9 +11,30 @@
 		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
 - 学科
 	- Discrete Mathematics
+		- 课件
+			- 厦门大学
+				- [离散数学 - Yang Lu](https://jasonyanglu.github.io/teaching/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6_2022)
 		- 命题逻辑
 			- 联结词：$$ \neg \vee \wedge  $$
-			-
+		- 等值演算
+			- |序号| 名称 | 公式 |
+			  |--|:--|--:|
+			  | 1 | 双重否定 | $$ A  \Leftrightarrow \neg\neg A$$ |
+			  | 2 |等幂律 | $$ A \Leftrightarrow A \vee A $$ <br /> $$ A \Leftrightarrow A \wedge A $$ |
+			  | 3 |交换律 | $$ A \vee B \Leftrightarrow B \vee A $$ <br /> $$ A \wedge B \Leftrightarrow B \wedge A$$ |
+			  | 4 |结合律 | $$ (A \vee B) \vee C \Leftrightarrow A \vee (B \vee C) $$<br />$$  (A \wedge B) \wedge C \Leftrightarrow A \wedge (B \wedge C) $$ |
+			  | 5 |分配律 | $$ A \vee (B \wedge C) \Leftrightarrow (A \vee B) \wedge (A \vee C) $$ <br /> $$ A \wedge (B \vee C) \Leftrightarrow (A \wedge B) \vee (A \wedge C)$$ |
+			  | 6 |德-摩根律 | $$ \neg (A \vee B) \Leftrightarrow \neg A \wedge \neg B $$ <br /> $$ \neg (A \wedge B) \Leftrightarrow \neg A \vee \neg B $$ |
+			  | 7 |吸收率 | $$ A \vee (A \wedge B) \Leftrightarrow A $$ <br /> $$ A \wedge (A \vee B) \Leftrightarrow A $$ |
+			  | 8 |零律 | $$ A \vee 1 \Leftrightarrow 1 $$ <br /> $$  A \wedge 0 \Leftrightarrow 0 $$ |
+			  | 9 |同一律 | $$ A \vee 0 \Leftrightarrow A $$ <br /> $$  A \wedge 1 \Leftrightarrow A $$ |
+			  | 10 |排中律 | $$ A \vee \neg A \Leftrightarrow 1 $$ |
+			  | 11 |矛盾律 | $$ A \wedge \neg A \Leftrightarrow 0 $$ |
+			  | 12 |蕴含等值律 | $$ A \to B \Leftrightarrow \neg A \vee B $$ |
+			  | 13 |等价等值律 | $$ A \leftrightarrow B \Leftrightarrow (A \rightarrow B) \wedge (B \rightarrow A) $$ |
+			  | 14 |假言易位 | $$ A \to B \Leftrightarrow \neg B \to \neg A $$ |
+			  | 15 |等价否定等值律 | $$ A \leftrightarrow B \Leftrightarrow \neg A \leftrightarrow \neg B $$ |
+			  | 16 |归谬论 | $$ (A \to B) \wedge (A \to \neg B) \Leftrightarrow \neg A $$ |
 		- PC(Proposition calc)
 			- Axious
 				- A1: $$A \to (B \to A)$$

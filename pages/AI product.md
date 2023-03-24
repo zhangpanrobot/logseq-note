@@ -1,7 +1,18 @@
 - [Uizard Autodesigner](https://uizard.io/autodesigner/)
 - [Eightify: AI Youtube Summary with GPT](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb)
 - [Chrome Web Store - Extensions (google.com)](https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc)
--
+- [chat 生成脑图](https://www.chatmind.tech/)
+- [Humata - GPT for your files, 文件问答](https://www.humata.ai/)
+- [AI Colors 生成UI配色](https://aicolors.co/)
+- [Copilot Hub, 和名人分身聊天](https://app.copilothub.co/home)
+- ChatGPT插件
+	- [chatgpt-retrieval-plugin， 文档搜索](https://github.com/openai/chatgpt-retrieval-plugin)
+- 技术Project
+	- [自定义流程图去生成ai功能](https://github.com/logspace-ai/langflow)
+	- [notion问答，langchain](https://github.com/hwchase17/notion-qa)
+	- [pdf问答机器人](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+	-
+	-
 - 您可以用：
 	- 用[http://Perplexity.ai](https://t.co/pRCepc5188) 代替 Google；
 	- 用 Poe 代替 ChatGPT.
