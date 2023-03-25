@@ -1,0 +1,3 @@
+- [LLM只是一个相当于UI层的东西，OpenAI也是这么定位的，所以才有Plugin来完成各种业务。它定义了新的生态。围绕LLM开发应用，是业务需求利用LLM更好跟用户交互，而不是只是用LLM完成业务需求（这样范围反而是更小了）](https://twitter.com/river_leaves/status/1639045612892192772?s=20)
+- [生成式AI对企业软件行业的启示 (qq.com)](https://mp.weixin.qq.com/s/DLUsQ9jjHf_ZbR4c1AbmNw)
+-

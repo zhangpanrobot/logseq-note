@@ -10,6 +10,7 @@
 		- [UI for beginners](https://method.ac/)
 	- Best Practice
 		- [Lightning Design System](https://www.lightningdesignsystem.com/)
+		  id:: 63f66082-7ca4-4a51-91cc-0f78882c204b
 		- [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
 		- [Material Design](https://m3.material.io/)
 		- [ColorBox](https://colorbox.io/)
