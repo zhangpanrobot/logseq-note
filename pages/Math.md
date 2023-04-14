@@ -11,8 +11,8 @@
 		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
 - 学科
 	- Discrete Mathematics
-	  collapsed:: true
 		- 课件
+		  collapsed:: true
 			- 厦门大学
 				- [离散数学 - Yang Lu](https://jasonyanglu.github.io/teaching/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6_2022)
 		- 命题逻辑
@@ -37,9 +37,7 @@
 				  | 15 |等价否定等值律 | $$ A \leftrightarrow B \Leftrightarrow \neg A \leftrightarrow \neg B $$ |
 				  | 16 |归谬论 | $$ (A \to B) \wedge (A \to \neg B) \Leftrightarrow \neg A $$ |
 			- PC(Proposition calc)
-			  collapsed:: true
 				- Proposition
-				  collapsed:: true
 					- 化简规则  $$p \wedge q \Rightarrow p , p \wedge q \Rightarrow q $$
 					- 附加规则  $$ p \Rightarrow p \vee q, q \Rightarrow p \vee q$$
 					- 假言推理  $$ p, p \rightarrow q \Rightarrow q$$
@@ -50,8 +48,15 @@
 					- 等价三段论 $$ p\leftrightarrow q, q \leftrightarrow r \Rightarrow p \leftrightarrow r $$
 					- 构造性二难 $$ p \rightarrow q, r \rightarrow s, p \vee r \Rightarrow q \vee s $$
 					- 归结式 $$ p \vee q, \neg p \vee s \Rightarrow q \vee s $$
-					-
-					-
+				- 等价式
+					- 否定等值
+						- $$ \neg \forall xA(x) \Leftrightarrow \exist x\neg A(x)$$
+						- $$\neg \exist xA(x) \Leftrightarrow \forall x\neg A(x) $$
+					- 辖域收缩与扩张
+						- ![image.png](../assets/image_1681300232471_0.png)
+					- 分配等值
+						- $$ \forall x (A(x) \wedge B(x) \Leftrightarrow \forall xA(x) \wedge \forall xB(x)$$
+						- $$\exist x (A(x) \vee B(x) \Leftrightarrow \exist xA(x) \vee \exist xB(x) $$
 				- Axious
 					- A1: $$A \to (B \to A)$$
 					- A2: $$(A\to (B \to C)) \to ((A \to B) \to (A \to C))$$
@@ -115,7 +120,20 @@
 						- 空关系：∅
 						- 全域关关系：$$ E_{A} = \{\langle x, y \rangle | x, y \in A\}  = A \times A$$
 						- 恒等关系：$$ I_{A} = \{\langle x, x \rangle | x \in A\}  $$
+					- 性质
+						- 自反
+							- $$ \forall x(x \in A \rightarrow \langle x, x \rangle \in R) $$
+						- 反自反
+							- $$ \forall x(x \in A \rightarrow \langle x, x \rangle \notin R) $$
+						- 对称
+							- $$ \forall x \forall y(x, y \in A \wedge \langle x, y \rangle \in R \rightarrow \langle y, x \rangle \in R) $$
+						- 反对称
+							- $$ \forall x \forall y(x, y \in A \wedge \langle x, y \rangle \in R \wedge \langle y, x \rangle \in R \rightarrow x = y) $$
+							- $$ \forall x \forall y(x, y \in A \wedge \langle x, y \rangle \in R \wedge x \ne y \rightarrow \langle y, x \rangle \notin R) $$
+						- 传递
+							- $$ \forall x \forall y \forall z(x,y,x \in A \wedge \langle x, y\rangle \in R \wedge \langle y, z\rangle \in R \rightarrow \langle x, z \rangle \in R) $$
 				- 关系的运算
+				  collapsed:: true
 					- 关系R的定义域dom R, 值域ran R和域fld R是
 					  $$dom R = \{x|∃y(xRy)\} $$
 					  $$ran R = \{y|∃x(xRy)\}$$
@@ -141,8 +159,61 @@
 					- 关系矩阵
 						- $$ M_{R^{-1}} = M_{R}^{T} $$
 						- $$ M_{R_{1} \circ R_{2}} =  M_{R_{1}} M_{R_{2}}$$
+				- 函数
+					- ![](https://img-blog.csdnimg.cn/img_convert/396872732049ad6e0bad5e87d30707e0.png)
+				- 等价和偏序
+				  collapsed:: true
+					- 等价
+						- 定义：
+							- 设$$ R \subseteq A \times A且 A \ne \phi $$, 若$$R$$是**自反、对称、传递**的，则称$$R$$是$$A$$上的**等价关系**
+								- 若$$ \langle x, y \rangle \in R $$, 则称$$ x等价于y $$, 记作 $$ x \sim y $$
+							- 若$$R$$是非空集合$$A$$上的等价关系，$$ x \in A $$, $$x$$的等价类$$[x]_{R} = \{ y| y \in A \wedge xRy \} $$
+					- 偏序
+						- 定义：
+							- 设$$R \subseteq A \times A$$, 若R是**自反、反对称、传递**的，则称$$R$$为$$A$$上的**偏序关系**，记为$$\preceq$$
+								- A和A上的偏序关系R一起叫做偏序集，记作$$(A, R)$$
+		- 自考题型
+			- 选择：15 * 2 = 30
+			- 填空：10 * 2 = 20
+			- 计算： 5 * 6 = 30
+			- 证明： 3 * 7 = 21
+			- 应用：2 * 7 = 14
+			- 10问答
+				- 真值表判定可满足式、逻辑等价式
+				- 求主范式
+				- 求关系矩阵和闭包，求r(R), s(R), t(R)
+					- 自反r(R): $$ R \cup I_{A} $$
+					- 对称s(R): $$ R \cup R^{-1} $$
+					- 传递t(R): $$ R \cup R^{2} \cup R^{3} $$
+				- Kruskal算法，画最小生成树，详细过程，计算权
+				- 已知有向图，求邻接矩阵，计算通路、回路
+				- 使用二叉树表示算术表达式，给出前序、中序、后序遍历序列
+				- 已知集合和运算，画哈斯图，求极大、极小、最大、最小元，判断是否为格
+				- 证明构成交换群；给定群，
+				- 命题符号化，并证明推理
+				- 无向简单图，证明同构，证明n度顶点个数
+		- 脑图
+			- 命题与命题公式
+				- ![命题与命题公式.webp](../assets/命题与命题公式_1681072958088_0.webp)
+			- 命题逻辑的推理理论
+				- ![命题逻辑的推理理论.webp](../assets/命题逻辑的推理理论_1681073083582_0.webp){:height 329, :width 485}
+			- 谓词逻辑
+				- ![谓词逻辑.webp](../assets/谓词逻辑_1681073125643_0.webp)
+			- 集合
+				- ![集合.webp](../assets/集合_1681073181321_0.webp)
+			- 关系与函数
+				- ![关系与函数.webp](../assets/关系与函数_1681073222096_0.webp)
+			- 代数系统的一般概念
+				- ![代数系统的一般概念.webp](../assets/代数系统的一般概念_1681073302959_0.webp)
+			- 格与布尔代数
+				- ![格与布尔代数.webp](../assets/格与布尔代数_1681073343907_0.webp)
+			- 图
+				- ![图.webp](../assets/图_1681073399738_0.webp)
+			- 图的应用
+				- ![图的应用.webp](../assets/图的应用_1681073414306_0.webp)
 	- 概率论与数理统计
 		- 事件的运算及关系
+			- ![](http://exp-picture.cdn.bcebos.com/955ea0e434daf05ecb25c9c6751d96d81819e55d.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_762%2Ch_491%2Fformat%2Cf_auto%2Fquality%2Cq_80)
 			- A与B的差事件
 				- $$ A - B = A \overline B = A \cup B - B = A - AB$$
 		- P
@@ -155,7 +226,7 @@
 				- 1. $$ P(\phi) = 0 $$
 				- 2. $$ P(A) = 1 - P(\overline{A}) $$
 				- 3. $$ A_{1}A_{2} = \phi, i \ne j, 则 P(\bigcup_{i=1}^{n}A_{i}) = \sum_{i=1}^{n}P(A_{i}) (有限可加性)$$
-				- 4. $$  若 A \sub B, 则 P(B - A) = P(B) - P(A). 一般情况下，P(B - A) = P(B) - P(AB) $$
+				- 4. 减法公式：$$  若 A \sub B, 则 P(B - A) = P(B) - P(A). 一般情况下，P(B - A) = P(B) - P(AB) $$
 				- 5. 加法公式：$$ P(A \cup B) = P(A) + P(B) - P(AB) $$
 					- 5.1 $$ P(A \cup B \cup C) = P(A) + P(B) + P(C) - P(AB) - P(AC) - P(BC) + P(ABC) $$
 					- 5.2 $$ 一般情况，略 $$
@@ -243,7 +314,231 @@
 				- 均匀分布
 					- 定义：若$$ X $$的概率密度函数为 $$ f(x) =  $$
 				-
-	- 高等数学
+		- 自考题型
+		  collapsed:: true
+			- 选择 10 * 2 = 20
+			- 填空 15 * 2 = 30
+			- 计算 2 * 8 = 16
+				- 已知$$ f(x, y) $$。求$$ f(x, y) $$分式里未知常数；求$$P(X, Y)$$
+				-
+			- 综合 2 * 12 = 24
+				- 已知$$ X = f_{X}(x), Y = g(X)。 求F(x), P(a < x < b), f_{Y}(y) $$
+				- 已知 $$(X,Y)$$分布率。判断$$X, Y$$相关或独立；求关于$$X,Y$$边缘分布；求$$g(X, Y)$$分布律及$$P\{X, Y\}$$
+				-
+			- 应用 1 * 10 = 10
+				- 已知$$ X \sim 某分布 $$。求整体和样本均值、方差；求置信区间
+				-
+		- 公式汇总
+			- ![form0.jpeg](../assets/form0_1681114072707_0.jpeg)
+			- ![form1.jpeg](../assets/form1_1681114013620_0.jpeg){:height 288, :width 625} ![form2.jpeg](../assets/form2_1681114018012_0.jpeg)
+				- ![image.png](../assets/image_1681156451397_0.png)
+				- 切比雪夫不等式
+					- $$ P[|X - E(X)|\ge \varepsilon] \le \frac{D(X)}{\varepsilon^{2}} $$
+				-
+			- 摸球
+			  collapsed:: true
+				- $$ C_{N}^{m}  = \frac{N!}{m!·(N - m)!}  注意：(0! = 1)$$
+				- 无放回
+					- 公式：$$ P = \frac{C_{条件1总}^{条件1取} \times C_{条件2总}^{条件2取} \times ... \times C_{条件N总}^{条件N取}}{C_{总}^{取}} $$
+					- case: 4红3白共7球，无放回摸4次，求摸出2红2白概率
+						- $$ P = \frac{C_{4}^{2} \times C_{3}^{2}}{C_{7}^{4}} $$
+				- 有放回
+					- 已知：
+						- 1. K种颜色球，代号分别为$$ A_{1}、A_{1}...A_{k} $$
+						  2. 抽一次，出现的概率分别为 $$ p_{1}、p_{2}...p_{k} $$
+						  3. 摸出各种球的个数分别为 $$ n_{1}、n_{2}...n_{k} $$
+					- 公式：$$ P = \frac {(n_{1} + n_{2} + ... + n_{k})!}{n_{1}!n_{2}!...n_{k}!}p_{1}^{n_{1}}p_{2}^{n_{2}}...p_{k}^{n_{k}} $$
+					- case:
+						- 5红6白共11球，有放回摸5次，求摸2红3白概率
+							- $$ P = \frac{(2 + 3)!}{2!3!}(\frac{5}{11})^{2}(\frac{6}{11})^{3} $$
+						- 2美3丑共5只母猴，随机挑一只帮她抓虱子，共抓101次，求给美猴抓50次、丑猴抓51次的概率
+							- $$ P = \frac{(50 + 51)!}{50!51!}(\frac{2}{5})^{50}(\frac{3}{5})^{51} $$
+			- 画图求概率
+			  collapsed:: true
+				- 1. 表现已知条件
+				  2. 表现待求概率的条件
+				  3. 找出1、2步重合部分
+			- 条件概率
+			  collapsed:: true
+				- 公式：$$ P(B|A) = \frac{P(AB)}{P(A)} $$
+				- 步骤：
+					- 设已知事件为A, 要求的部分为事件B
+				- case:
+					- 小明考试80分以上概率80%，60分以上概率85%，已知本次才试没挂，求得80分以上概率
+						- 设A 60分，B 80分， $$ P(A) = 0.85, P(B) = 0.8 $$
+						  由题可知：P(AB) = P(B)
+						  P(B|A) = P(AB)/P(A) = P(B)/P(A)
+					- 今年发洪水概率80%，今明两年至少 有一年发洪水概率85%，假如今年没发洪水，求明年发洪水概率
+						- 设 A = 今年没发洪水，B = 明年发洪水
+						  $$P(A) = 0.2, P(\overline A \cup B) = 0.85$$
+						  $$ P(\overline AB) =  $$
+						  $$ P(B|A) =  $$
+			- 全概率公式
+			  collapsed:: true
+				- 公式：
+					- 已知$$ A、B... $$等个体均可能发生某事
+					  $$ P(发生某事) = P(A出现)· P(A发生某事) + P(B出现)· P(B发生某事) ...$$
+					- case:
+						- 客车中20%高速客车，80%普通客车，高速客车故障率0.002，普通客车故障率0.01。求客车发生故障概率
+							- $$ P(客车发生故障) = P(高速客车出现)· P(高速客车发生故障) + P(普通客车出现)· P(普通客车发生某事) $$
+							  $$ = 0.2 * 0.002 + 0.8 * 0.01 $$
+			- 贝叶斯公式
+			  collapsed:: true
+				- 公式：
+					- A、B...等个体均可能发生某事，则
+					  $$ P(已知有个体发生某事时，是A发生的) = \frac{P(A出现)·P(A发生某事)}{P(发生某事)} $$
+				- case:
+					- 客车中20%高速客车，80%普通客车，高速客车故障率0.002，普通客车故障率0.01。现已知有客车发生故障，求故障是高速客车的概率
+						- A: 高速，B: 普通
+						  $$ P = \frac{0.2*0.002}{0.2 * 0.002 + 0.8 * 0.01} $$
+			- 一维随机变量
+			  collapsed:: true
+				- 公式：
+					- $$ f_{X}(x) = F_{X}'(x) $$
+					  $$ F_{X}(x) = \int_{-\infty}^{x}f_{X}(x)\mathrm{d}x $$
+					  $$ P(a < X < b) = F_{X}(b) - F_{X}(a) = \int_{a}^{b}f_{X}(x)\mathrm{d}x$$
+					  $$ F_{X}(-\infty) = 0, F_{X}(+\infty) = 1, \int_{-\infty}^{+\infty}f_{X}(x)\mathrm{d}x =1 $$
+					  $$ F_{上}(分段点) = F_{下}(分段点) $$
+				- 已知$$F_{X}(x)$$或$$f_{X}(x)$$其中一项，求另一项
+					- case:
+				- 已知$$F_{X}(x)$$或$$f_{X}(x)$$其中一项，求P
+					- case:
+				- 已知$$F_{X}(x)$$或$$f_{X}(x)$$中含未知数，求未知数
+				- 求分布列
+				- 已知分布列，其中含有未知数，求未知数
+			- 一维随机变量函数
+			  collapsed:: true
+				- 已知X分布列，求Y分布列
+					- 步骤：
+						- 1. 根据$$X$$的所有取值，计算$$Y$$的所有取值
+						  2. 将表格里$$X$$那一列对应换成$$Y$$
+						  3. 如表头有重复，则加总重复表头对应的概率值
+					- case:
+						- 求$$ Y = X^{2} + 1分布列 $$
+				- 已知$$ F_{X}(x) $$, 求 $$ F_{Y}(y) $$
+					- 步骤：
+						- 1. 写出 $$ X = ?Y $$
+						  2. 用$$ ?y $$替换 $$ F_{X}(x) $$中的$$x$$, 结果为$$ F_{X}(?y) $$
+						  3. 判断$$ ?y $$中是否有负号
+						       若无，则$$ F_{Y}(y) = F_{X}(?y) $$
+						       若有，则$$ F_{Y}(y) = 1 - F_{X}(?y) $$
+						  4. 判断分段取值范围是否为y，如y/2则需要转换成y
+				- 已知$$ f_{X}(x) $$, 求 $$ f_{Y}(y) $$
+					- 步骤：
+						- 1. 写出 $$ X = ?Y $$
+						  2. 用$$ ?y $$替换 $$ f_{X}(x) $$中的$$x$$, 结果为$$ f_{X}(?y) $$; 转换分段取值范围的y，比如y/2 > 1 => y > 2
+						  3. 令$$ f_{Y} = (?y)'·f_{X}(?y) $$
+						  4.判断$$ ?y $$中是否有负号
+						       若无，则$$ F_{Y}(y) = f_{Y} $$
+						       若有，则$$ F_{Y}(y) = -f_{Y} $$
+			- 符合某分布，求概率
+				- 均匀 $$ U[a,b] $$
+					- 公式：$$ P = \frac{满足要求长度}{总长度} $$
+					- case:
+						- 设$$X$$在[2, 5]上服从均匀分布，求$$P(X>3)$$
+							- $$ P(X>3) = \frac{5-3}{5-2} = \frac{2}{3} $$
+						- 设$$X$$在[2, 5]上服从均匀分布，求$$P(X<3)$$
+						- $$ P(X<3) = \frac{3-2}{5-2} = \frac{1}{3} $$
+				- 泊松 $$ \pi(\lambda), Pois(\lambda) $$
+					- 公式：$$ P(X = x) = \frac{\lambda^{x}}{x!}e^{-\lambda}$$
+					- case: 某电话交换台每分钟接到的呼叫次数服从参数为5的泊松分布
+						- 求在一分钟内呼叫2次的概率
+							- $$ P(X = 2) = \frac{5^{2}}{2!}e^{-5}$$
+						- 求在一分钟内呼叫不起过3次的概率
+							- $$ P(X \le 3) = P(X = 0) + P(X = 1) + P(X = 2) + P(X = 3)$$
+				- 二项 $$ B[n, p] $$
+					- 公式：$$ P(X=x) = C_{n}^{x}p^{x}(1-p)^{n-x} $$
+					- case:
+						- 重复投5次硬币，求正面朝上次数为3次的概率
+							- 已知$$ n = 5, x = 3, P（正面朝上） = 1/2 $$
+							  $$ P(X=3) = C_{5}^{3}(1/2)^{3}(1-1/2)^{5-3} = 5/16 $$
+						- 从2红1绿3个球里有放回摸3次，求摸到2次红球的概率
+							- 已知$$ n = 3, x = 2, P(摸到红球) = 2/3 $$
+				- 指数 $$ E(\lambda) $$
+					- 公式：$$   $$
+					- case:
+				- 正态 $$ N(\mu, \sigma^{2}) $$
+					- 公式：
+			- 正态分布图像
+			- 二维随机变量
+			  collapsed:: true
+				- 已知二维离散型分布律，求???
+				- 已知二维离散型分布律，判断独立性(或已知X、Y相互独立，分布律里未知量a, b)
+					- 如果任意$$ x_{i}, y_{i} $$均满足$$ P(X = x_{i}, Y = y_{i}) = P(X = x_{i})·P(Y = y_{i}) $$, 那么X、Y相互独立；否则X、Y不相互独立
+				- 已知$$F(x, y)$$, 求$$ f(x, y) $$
+					- 公式：$$ f(x, y) = \frac{\partial^{2}F(x, y)}{\partial x \partial y} $$
+				- 已知$$f(x, y)$$, 求$$ F(x, y) $$
+					- 步骤
+						- 1. 找出$$ f(x, y) $$不等于0时$$x$$的范围和$$y$$的范围
+						  2. 计算$$\int_{g_{1}(y)}^{x}\mathrm{d}u\int_{h_{1}(u)}{y}f(u, v)\mathrm{d}v$$,结果记为$$1$$
+						  3.
+						-
+			- 期望、方差
+				- 离散
+					- $$ E(X) = \sum x_{i}p_{i} $$
+					- $$ D(X) = \sum[x_{i} - E(X)]^2·p_{i} $$
+				- 连续
+					- $$ E(X) = \int_{-\infty}^{+\infty}xf(x)\mathrm{d}x $$
+					- $$ D(X) = E(X^{2}) - E^{2}(X) $$
+				- 已知$$ Y = g(X), 求E(Y) $$
+					- 离散：$$ E(Y) = \sum g(x_{i})p_{i} $$
+						- case:  已知$$Y = 2X - 1, 求E(Y)$$
+							- $$ E(Y) = \sum g(x_{i})p_{i}$$
+							- $$ = \sum(2x_{i} - 1)pi $$
+					- 连续：$$ E(Y) = \int_{-\infty}^{+\infty}g(x)·f(x)\mathrm{d}x $$
+						- case:  已知$$Y = X^{2}，求E(Y)$$
+							- $$ E(Y) = \int_{-\infty}^{+\infty}g(x)·f(x)\mathrm{d}x$$
+							- $$ = \int_{-\infty}^{+\infty}x^{2}·f(x)\mathrm{d}x $$
+				- 复杂运算
+					- |  $$E$$ | $$D$$ |
+					  |  ----  | ----  |
+					  | $$ E(C) = C $$  | D(C) = 0 |
+					  | $$ E(CX) = CE(X) $$  | D(CX) = C^{2}D(X) |
+					  | $$ E(X \pm Y) = E(X) \pm E(Y) $$  | D(X \pm Y) = D(X) \pm D(Y) (X、Y相互独立时)|
+					  | $$ E(XY) = E(X)E(Y) (X、Y相互独立时) $$  | |
+					  | $$ D(X) = E(X^{2}) - E^{2}(X) $$ |
+					- case: 已知分布律，求$$E(2X_{2} - 5), D(\sqrt{7}X - 5)$$
+						- $$ E(2X^{2} - 5) = E(2X^{2}) -E(5) $$
+						-
+			- 协方差、相关系数
+				- 公式：
+					- $$ Cov(X, Y) = E\{[X - E(X)][Y-E(Y)]\} $$
+					- $$ \sum_{i=1}^{n}X_{i} \sim N(n\mu, n\sigma^{2}) $$
+					- ![image.png](../assets/image_1681234984333_0.png)
+				- 多项独立同分布，求总和
+					- 公式： ![image.png](../assets/image_1681236019891_0.png)
+					- case:
+						- 商品周销量期望1，方差1，各周销量相互独立 ；求年销量(52周)在50到70件之间的概率
+							- n = 52, 年销量Y，E(X) = 1, D(X) = 1
+							- ![image.png](../assets/image_1681236343957_0.png)
+						- 每箱商品质量独立同分布，每箱平均重50kg, 标准差5kg. 若用最大载重量5000kg汽车承运，求每辆车最多装多少箱，以保证不超载概率大于0.997？$$(\Phi(2) = 0,997)$$
+							- ![image.png](../assets/image_1681236662867_0.png)
+					-
+			- 数理统计
+				- 求未知参数的矩估计
+				  collapsed:: true
+					- 公式或步骤：
+						- 1. 写出$$E(X)$$与待求未知数的关系
+						  2. 将1的结果整理成$$未知数=?E(X)$$的形式
+						  3. 根据给出的样本，算出实际的$$E(X)$$
+						  4. 求出未知数
+					- case：
+						- 已知产品合格率P，每次从中随机抽10件进行检验，$$X_{i}$$表示第$$i$$次抽出的10件产品中次品的个数，则可认为$$X_{1}, X_{2},..., X_{n}$$独立同分布，总体分布是$$B(10, P)$$, 求P的矩估计
+							- 1. $$ E(X) = np = 10P $$
+							  2. $$ P = E(X) / 10 $$
+							  3. $$ E(X) =  (X_{1} + X_{2} + ... + X_{n}) / n$$
+							  4. $$ \hat P = (X_{1} + X_{2} + ... + X_{n}) / 10n $$
+						-
+				- 假设检验
+					- 判断单项参数与某数值关系
+					- ![image.png](../assets/image_1681303485436_0.png)
+					- 判断两项参数间的关系
+					- ![image.png](../assets/image_1681303249229_0.png)
+					- 对于成对数据的检验
+					- ![image.png](../assets/image_1681379075135_0.png)
+					- P值检验
+					- ![image.png](../assets/image_1681379158646_0.png)
+	- 高等数学X
 	  collapsed:: true
 		- Definite Integrals
 			- 公式：$$ \int_{a}^{b}2x\mathrm{d}x $$
@@ -264,6 +559,7 @@
 			- $$ \sum_{k=0}^{\infty}(ar^{k}) = a\begin{pmatrix}\frac{1}{1-r} \end{pmatrix} $$
 				- $$ -1< r < 1, r  \ne 0 $$
 	- Geometric Mean
+	  collapsed:: true
 		- or **n** numbers: multiply them all together and then take the **n**th root
 		- $$ \sqrt[n]{a_{1}\times a_{2} ... \times a_{n}} $$
 	- ![](https://pic3.zhimg.com/v2-903c9e7c5d047a68af2ef787d9e6614e_r.jpg)
@@ -271,21 +567,4 @@
 		- $$ \Gamma(s) = \int_{0}^{\infty}e^{-t}t^{s-1}\mathrm{d}t $$
 	- ![代数结构入门：群、环、域、向量空间](https://picx.zhimg.com/feb8dbb0222be967e7b04f81d69267cc_720w.jpg?source=172ae18b)
 	- 图的欧拉公式
-		-
-	- 自考题型
-		- 15选择
-		- 10问答
-			- 真值表判定可满足式
-			- 等值演算求主合取范式
-			- 求关系矩阵和闭包，求r(R), s(R), t(R)
-				- 自反r(R): $$ R \cup I_{A} $$
-				- 对称s(R): $$ R \cup R^{-1} $$
-				- 传递t(R): $$ R \cup R^{2} \cup R^{3} $$
-			- Kruskal算法，画最小生成树，详细过程，计算权
-			- 已知有向图，求邻接矩阵，计算通路、回路
-			- 使用二叉树表示算术表达式，给出前序、中序、后序遍历序列
-			- 已知集合和运算，画哈斯图，求极大、极小、最大、最小元，判断是否为格
-			- 证明构成交换群
-			- 命题符号化，并证明推理
-			- 无向简单图，证明同构，证明n度顶点个数
-		- 10填空
+		- 令 $$ G = (V, E) $$为一个连通的平面图(planar graph, 除在顶点外，任意两边不交叉)，V顶点集合，E边集合，R面集合， $$ |V|  - |E| + |R| = 2 $$
