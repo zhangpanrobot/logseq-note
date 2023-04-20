@@ -11,6 +11,7 @@
 		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
 - 学科
 	- Discrete Mathematics
+	  collapsed:: true
 		- 课件
 		  collapsed:: true
 			- 厦门大学
@@ -212,6 +213,7 @@
 			- 图的应用
 				- ![图的应用.webp](../assets/图的应用_1681073414306_0.webp)
 	- 概率论与数理统计
+	  collapsed:: true
 		- 事件的运算及关系
 			- ![](http://exp-picture.cdn.bcebos.com/955ea0e434daf05ecb25c9c6751d96d81819e55d.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_762%2Ch_491%2Fformat%2Cf_auto%2Fquality%2Cq_80)
 			- A与B的差事件
@@ -538,7 +540,7 @@
 					- ![image.png](../assets/image_1681379075135_0.png)
 					- P值检验
 					- ![image.png](../assets/image_1681379158646_0.png)
-	- 高等数学X
+	- 高等数学
 	  collapsed:: true
 		- Definite Integrals
 			- 公式：$$ \int_{a}^{b}2x\mathrm{d}x $$
@@ -546,6 +548,29 @@
 				- sum: $$ \int_{}{} $$
 				- differential: $$ \mathrm{d}$$
 				- ![integral notation](https://www.mathsisfun.com/calculus/images/integral-notation-1.svg)
+	- 线性代数
+		- Vectors
+			- 定义
+				- A vector **v** is a set of numbers
+			- 性质
+				- For any vectors **u, v** and **w** in $$\Re^{n}$$, and any scalars a and b
+					- **u + v = v + u**
+					- **(u + v) + w = u + (v + w)**
+					- There is an element **0** in $$\Re^{n}$$ such that **0 + u = u**
+					- There is an element **u'** in $$\Re^{n}$$ such that **u' + u = 0**
+					- 1**u = u**
+					- (ab)**u** = a(b**u**)
+					- a**(u + v)** = a**u** + a**v**
+					- (a + b)**u** = a**u** + b**u**
+		- Matrix-vector Product
+			- A and B are $$m\times n$$ matrices,  **u** and **v** are vectors in $$\Re^{2}$$, and $$c$$ is a scalar
+				- $$A(u + v) = Au + Av$$
+				- $$ A(cu) = c(Au) = (cA)u $$
+				- $$(A+B)u = Au + Bu$$
+				- A**0** is the $$m \times 1$$ zero vector
+				- **0**$$v$$ is also the $$m \times 1$$ zero vector
+				- $$ I_{n}v = v $$
+				- $$\sqrt[n]{x}$$
 - Any Note
 	- Geometric Sequences and Sums
 	  collapsed:: true
