@@ -7,3 +7,8 @@
 	- [Fucking SwiftUI - Cheat Sheet](https://fuckingswiftui.com/)
 - Book
 	- https://www.appcoda.com.tw/learnswiftui/swiftui-text.html
+- for web developers
+	- [An Introduction to SwiftUI for React Developers](https://benmcmahen.com/swiftui-for-react-developers/)
+	- [Intro to SwiftUI State Management for React Developers](https://www.headway.io/blog/intro-to-swiftui-state-management-for-react-developers)
+	- [swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs)
+	-
