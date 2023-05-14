@@ -20,7 +20,9 @@
 	- 用Elicit 代替 Google Scholar.
 - For fun
 	- [TOEFL打分](https://chatgpt-for-english-study.vercel.app/)
--
+	- [Roam Around - 生成旅行攻略](https://www.roamaround.io/itineraries/Wu-Han-China/7-day-itinerary/UjB4LXIPkJ0SZfqT25FW)
+- Translate
+	- [Byrdhouse 多国语言实时翻译，不同母语与会者同时开会](https://byrdhouseapp.com)
 - Image generate
 	- [Virtual Photo Studio & AI Modelling Agency](https://www.deepagency.com/?ref=producthunt)
 	- [Take photo, add background](https://www.photoroom.com/)
