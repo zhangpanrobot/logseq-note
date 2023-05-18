@@ -54,3 +54,38 @@
 	- [一个故事讲完https](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513779&idx=1&sn=a1de58690ad4f95111e013254a026ca2&chksm=80d67b70b7a1f26697fa1626b3e9830dbdf4857d7a9528d22662f2e43af149265c4fd1b60024&scene=21)
 - 安全
 	- [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)
+- Interview其它人
+	- JS
+		- Promise
+		- TS
+	- Library
+		- Vue
+		- React
+	- CSS
+		- Flex
+	- Http
+	- New Tech
+		- WebAssembly
+	- Backend
+		- Nodejs
+		- SQL
+	- CI/CE
+		- webpack
+	- Coperation
+		- Git
+		- Eslint
+	- 项目经历
+		- rxjs
+		- puppeteer
+		- jest
+		- express
+		- mongoose
+	- Tech加分
+		- Tailwind
+		- 用户地址栏输入网址到页面渲染完整过程
+	- 非Tech加分项
+		- 英语
+		- 学习渠道
+		- 沟通
+			- 理清业务逻辑
+		- 合作
