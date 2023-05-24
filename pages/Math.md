@@ -1,3 +1,4 @@
+- ![math.png](../assets/math_1684934586294_0.png)
 - Book
 	- 林华达推荐
 	- 概率
@@ -213,7 +214,6 @@
 			- 图的应用
 				- ![图的应用.webp](../assets/图的应用_1681073414306_0.webp)
 	- 概率论与数理统计
-	  collapsed:: true
 		- 事件的运算及关系
 			- ![](http://exp-picture.cdn.bcebos.com/955ea0e434daf05ecb25c9c6751d96d81819e55d.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_762%2Ch_491%2Fformat%2Cf_auto%2Fquality%2Cq_80)
 			- A与B的差事件
@@ -317,7 +317,10 @@
 				- 均匀分布
 					- 定义：若$$ X $$的概率密度函数为 $$ f(x) =  $$
 				-
+		- 马尔科夫链
+			- [简述马尔可夫链【通俗易懂】 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/448575579)
 		- 假设检定
+		  collapsed:: true
 			-
 		- 自考题型
 		  collapsed:: true
@@ -544,7 +547,6 @@
 					- P值检验
 					- ![image.png](../assets/image_1681379158646_0.png)
 	- 高等数学
-	  collapsed:: true
 		- 常用公式
 			- [单变量微积分](https://learnku.com/docs/svcalculus)
 		- Definite Integrals
@@ -553,6 +555,8 @@
 				- sum: $$ \int_{}{} $$
 				- differential: $$ \mathrm{d}$$
 				- ![integral notation](https://www.mathsisfun.com/calculus/images/integral-notation-1.svg)
+		- 微分方程
+			-
 	- 线性代数
 	  collapsed:: true
 		- Vectors
@@ -578,6 +582,7 @@
 				- $$ I_{n}v = v $$
 				- $$\sqrt[n]{x}$$
 	- 群论
+	  collapsed:: true
 		- 通俗
 			- [物理学中的群论 · 入门篇 第〇章：概述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/536407679)
 - Any Note
@@ -596,9 +601,19 @@
 	  collapsed:: true
 		- or **n** numbers: multiply them all together and then take the **n**th root
 		- $$ \sqrt[n]{a_{1}\times a_{2} ... \times a_{n}} $$
-	- ![](https://pic3.zhimg.com/v2-903c9e7c5d047a68af2ef787d9e6614e_r.jpg)
+	- ![bigdata.jpg](../assets/bigdata_1684953946362_0.jpg)
 	- Gamma function
 		- $$ \Gamma(s) = \int_{0}^{\infty}e^{-t}t^{s-1}\mathrm{d}t $$
-	- ![代数结构入门：群、环、域、向量空间](https://picx.zhimg.com/feb8dbb0222be967e7b04f81d69267cc_720w.jpg?source=172ae18b)
+	- ![group.png](../assets/group_1684953895185_0.png)
+	- ![group1.png](../assets/group1_1684954386065_0.png)
+	- ![group2.png](../assets/group2_1684954400120_0.png)
+	- ![group3.png](../assets/group3_1684954411058_0.png)
+	- ![space.jpg](../assets/space_1684953073548_0.jpg){:height 379, :width 741}
+		-
+		-
+		-
+	- ![space1.png](../assets/space1_1684954358841_0.png)
+	- https://blog.sciencenet.cn/blog-391825-1366498.html
+	-
 	- 图的欧拉公式
 		- 令 $$ G = (V, E) $$为一个连通的平面图(planar graph, 除在顶点外，任意两边不交叉)，V顶点集合，E边集合，R面集合， $$ |V|  - |E| + |R| = 2 $$

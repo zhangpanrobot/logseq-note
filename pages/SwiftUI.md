@@ -5,10 +5,18 @@
 	- [SwiftUI](https://jinxiansen.github.io/SwiftUI/README_CN.html)
 	- [SimpleBoilerplates/SwiftUI-Cheat-Sheet: SwiftUI 2.0 Cheat Sheet (github.com)](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 	- [Fucking SwiftUI - Cheat Sheet](https://fuckingswiftui.com/)
+	- [Usage Guide](https://github.com/Jinxiansen/SwiftUI)
 - Book
 	- https://www.appcoda.com.tw/learnswiftui/swiftui-text.html
 - for web developers
 	- [An Introduction to SwiftUI for React Developers](https://benmcmahen.com/swiftui-for-react-developers/)
 	- [Intro to SwiftUI State Management for React Developers](https://www.headway.io/blog/intro-to-swiftui-state-management-for-react-developers)
 	- [swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs)
+- Architecture
+	- [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+	- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)
+- Demo
+	- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+	- [SwiftUI macOS](https://github.com/Dimillian/RedditOS)
+	- [Examples projects using SwiftUI](https://github.com/ivanvorobei/SwiftUI)
 	-
