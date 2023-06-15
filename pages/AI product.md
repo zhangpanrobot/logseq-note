@@ -5,6 +5,7 @@
 - [Humata - GPT for your files, 文件问答](https://www.humata.ai/)
 - [AI Colors 生成UI配色](https://aicolors.co/)
 - [Copilot Hub, 和名人分身聊天](https://app.copilothub.co/home)
+- https://typeset.io/papers/ 读论文
 - ChatGPT插件
 	- [chatgpt-retrieval-plugin， 文档搜索](https://github.com/openai/chatgpt-retrieval-plugin)
 - 技术Project
@@ -26,3 +27,6 @@
 - Image generate
 	- [Virtual Photo Studio & AI Modelling Agency](https://www.deepagency.com/?ref=producthunt)
 	- [Take photo, add background](https://www.photoroom.com/)
+- Flow
+	- https://takomo.ai/
+	- https://flowgpt.com/

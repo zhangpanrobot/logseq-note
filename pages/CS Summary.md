@@ -1,4 +1,16 @@
 - [每个程序员都应该了解的内存知识](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 	- [optimization - How much of ‘What Every Programmer Should Know About Memory’ is still valid? - Stack Overflow](https://stackoverflow.com/questions/8126311/how-much-of-what-every-programmer-should-know-about-memory-is-still-valid)
 - [Modern Microprocessors](https://www.lighterra.com/papers/modernmicroprocessors/)
--
+- 网络
+	- CS144, 完成lab
+	- 研究TCP/IP协议，做实验，抓包解析，然后再去看书，再实验，抓包分析…这个过程是一个周期性的迭代过程，需要时间的积累
+	- Book
+		- 图解HTTP
+		- 图解TCP/IP
+		- 网络是怎样连接的
+		- 计算机网络：自顶向下方法
+		- TCP/IP详解
+- C++
+	- 陈硕muduo网络库；本书穿插了C++语法、网络编程、多线程、分布式高频面试点，无数人人手一个网络库面大厂就是拜这所赐
+- 数据结构和算法
+	- 刷题，刷到吐为止

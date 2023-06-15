@@ -39,3 +39,32 @@
 	- Vector search
 		- [What is a vector search engine?](https://dev.to/asmitbm/what-are-vector-search-engines-3lp1#:~:text=Vector%20search%20can%20be%20used,(Source%3A%20Microsoft%20AI))
 		- [What are Vector Embeddings? | Pinecone](https://www.pinecone.io/learn/vector-embeddings/)
+- 学习方法
+	- 公式推导+代码编写
+	- 阅读经曲文献 70+
+	- John Carmack
+		- Write lots of code. Clone existing things as exercises. Learn deeply. Alternate trying yourself and reading literature. Be obsessive
+	- Edward Kmett
+		- Most of my programming career has involved finding something neat, writing my own version to understand it & often throwing it away.
+		- I program those "clones" like I read papers: change a core part; redesign it. Gain progress or understanding why it is what it is.
+- 发展历程
+	- NLP
+		- 词表示法(Word Presentation)
+			- One-Hot
+				- 原理：n阶马尔科夫链，极大似然估计
+				- 缺点：
+					- Out of vocabulary, OOV
+						- Solution
+							- 平滑技术
+								- Discounting
+					-
+				- 优点
+			- Word2Vec
+			- GloVe
+			- fastText
+		- 语言模型(Language Model)
+			- N-Gram
+			- Perceptron
+			- CNN
+			- RNN
+			- Transformer
