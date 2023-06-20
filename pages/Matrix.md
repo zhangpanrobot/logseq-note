@@ -1,0 +1,3 @@
+- 二次型，正定矩阵，海森矩阵
+	- https://www.zhihu.com/question/304499772/answer/552481133
+	- https://www.zhihu.com/question/38902714/answer/195435181
