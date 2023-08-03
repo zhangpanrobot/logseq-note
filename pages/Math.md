@@ -216,6 +216,8 @@
 			- 图的应用
 				- ![图的应用.webp](../assets/图的应用_1681073414306_0.webp)
 	- 概率论与数理统计
+	  collapsed:: true
+		- https://zhuanlan.zhihu.com/p/42859784
 		- 事件的运算及关系
 			- ![](http://exp-picture.cdn.bcebos.com/955ea0e434daf05ecb25c9c6751d96d81819e55d.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_762%2Ch_491%2Fformat%2Cf_auto%2Fquality%2Cq_80)
 			- A与B的差事件
@@ -339,6 +341,7 @@
 				- 已知$$ X \sim 某分布 $$。求整体和样本均值、方差；求置信区间
 				-
 		- 公式汇总
+		  collapsed:: true
 			- ![form0.jpeg](../assets/form0_1681114072707_0.jpeg)
 			- ![form1.jpeg](../assets/form1_1681114013620_0.jpeg){:height 288, :width 625} ![form2.jpeg](../assets/form2_1681114018012_0.jpeg)
 				- ![image.png](../assets/image_1681156451397_0.png)
@@ -549,6 +552,7 @@
 					- P值检验
 					- ![image.png](../assets/image_1681379158646_0.png)
 	- 高等数学
+	  collapsed:: true
 		- 常用公式
 			- [单变量微积分](https://learnku.com/docs/svcalculus)
 		- Definite Integrals
@@ -587,6 +591,10 @@
 	  collapsed:: true
 		- 通俗
 			- [物理学中的群论 · 入门篇 第〇章：概述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/536407679)
+	- 拓扑
+		- 开集
+			- 请问开集和闭集如何理解？ - sola的回答 - 知乎
+			  https://www.zhihu.com/question/378515815/answer/1071427708
 - Any Note
 	- Geometric Sequences and Sums
 	  collapsed:: true
@@ -622,4 +630,6 @@
 	- map vs function
 		- https://math.stackexchange.com/questions/1912970/intutive-difference-between-linear-map-transformation-vs-linear-function
 		- https://solitaryroad.com/c303.html
--
+	- SO(3), SE(3)
+		- ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019012122093924.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4MTA1NDEz,size_16,color_FFFFFF,t_70){:height 503, :width 718}
+- ![](https://picx.zhimg.com/80/v2-9556051bfddd429ff14468693b0e1c75_1440w.webp?source=1940ef5c)

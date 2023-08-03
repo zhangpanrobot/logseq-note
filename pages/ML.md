@@ -23,6 +23,7 @@
 			-
 - Learning Platform
 	- paper with code
+	- https://a16z.com/2023/05/25/ai-canon/
 - 入门
 	- [Linear Algebra李宏毅](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
 	- 白话机器学习算法--笔记
@@ -68,3 +69,7 @@
 			- CNN
 			- RNN
 			- Transformer
+				- http://nlp.seas.harvard.edu/annotated-transformer/
+				- https://jalammar.github.io/illustrated-transformer/
+				- https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73
+				- https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3

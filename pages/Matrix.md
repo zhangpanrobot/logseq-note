@@ -1,3 +1,5 @@
 - 二次型，正定矩阵，海森矩阵
 	- https://www.zhihu.com/question/304499772/answer/552481133
 	- https://www.zhihu.com/question/38902714/answer/195435181
+- ![](https://pic4.zhimg.com/80/v2-016c88ceef13730c1929c39202f5c85b_1440w.webp)
+- ![](https://pic4.zhimg.com/80/v2-e283a0e16c5dcde07036a3226bd946a7_1440w.webp)
