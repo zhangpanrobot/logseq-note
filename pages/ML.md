@@ -71,5 +71,7 @@
 			- Transformer
 				- http://nlp.seas.harvard.edu/annotated-transformer/
 				- https://jalammar.github.io/illustrated-transformer/
+				- https://zhuanlan.zhihu.com/p/54356280 可视化transformer中文版
+				- https://mp.weixin.qq.com/s/21V8g_7teuRgHLWUej1NzA
 				- https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73
 				- https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
