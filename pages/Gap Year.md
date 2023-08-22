@@ -12,4 +12,6 @@
 	- 《成功动机与目标》
 	- 《深度工作》
 	- 《学习之道》
+- 独立开发
+	- https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q
 -
