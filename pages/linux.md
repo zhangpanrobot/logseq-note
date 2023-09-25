@@ -28,3 +28,8 @@
 - Each number for each access class
 	- 700 will give read, write, and execute permissions for the user only
 	- 777 will give read, write, and execute permissions for everyone
+- 面试
+	- 熟悉linux操作系统
+		- [openssh升级方案](https://www.zhihu.com/question/517101428/answer/3041079679)
+		- \todo 123
+		-

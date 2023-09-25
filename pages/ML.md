@@ -32,6 +32,8 @@
 			- 挑选合适算法
 			- 算法参数调优
 			- 创建并比较模型，选出最优模型
+	- 机器学习的数学
+		- [数学基础](https://www.naah69.com/tags/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/)
 - Company
 	- Luma AI
 - TODO
