@@ -27,6 +27,4 @@
 - Case
 	- https://www.dora.run/
 	- https://expo.dora.run/
--
-- $$ \beta $$
--
+	- https://gitness.com/
