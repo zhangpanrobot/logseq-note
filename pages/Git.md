@@ -6,3 +6,8 @@
 		  git reset --hard origin/master
 		  git pull
 		  ```
+- git 改commit message
+	- ```
+	  git commit --amend --only -m 'xxxxxx'
+	  ```
+-

@@ -4,4 +4,5 @@
 	- Andy Johns, Flywheel
 - MVP
 	- [How to Build An MVP | Startup School - YouTube](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
--
+- 公司注册
+	- [如何成立一家海外公司来管理以及保护你的 Side Project - 旺旺来富 (wangwanglaifu.com)](https://blog.wangwanglaifu.com/side-project-and-offshore-company/)

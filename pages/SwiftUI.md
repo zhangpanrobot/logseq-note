@@ -19,4 +19,5 @@
 	- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
 	- [SwiftUI macOS](https://github.com/Dimillian/RedditOS)
 	- [Examples projects using SwiftUI](https://github.com/ivanvorobei/SwiftUI)
-	-
+- $$|f|=\sqrt(<f,f>)$$
+-
