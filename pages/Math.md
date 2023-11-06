@@ -11,13 +11,13 @@
 	- 拓扑
 		- **Topology (2nd Ed.)  by James Munkres**
 		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
-<<<<<<< HEAD
+		  <<<<<<< HEAD
 - Blog
 	- [苏剑林](https://kexue.fm/)
-=======
+	  =======
 	- 其它教材
 		- [数学经典教材介绍 - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1292235183446392832)
->>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
+		  >>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
 - 学科
 	- Discrete Mathematics
 	  collapsed:: true
@@ -223,10 +223,16 @@
 				- ![图的应用.webp](../assets/图的应用_1681073414306_0.webp)
 	- 概率论与数理统计
 	  collapsed:: true
-<<<<<<< HEAD
 		- https://zhuanlan.zhihu.com/p/42859784
-=======
->>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
+		- 大数定律和中心极限定理
+			- **在独立同分布条件下的随即变量平均值的表现**
+			- $$ S_{n} = \sum_{i=1}^{n}X_{i} $$
+		- 大数定律
+			- **样本均值收敛到总体均值** => 期望
+			- $$ \frac{1}{n}S_{n} - E(X) \overset{P}{\rightarrow}  0 $$
+		- 中心极限定理
+			- 当样本足够大时，**样本均值的分布会慢慢变成正态分布**
+			- $$ \sqrt{n}(\frac{S_{n}}{n} - E(X)) \overset{D}{\rightarrow} N(0, \sum) $$
 		- 事件的运算及关系
 			- ![](http://exp-picture.cdn.bcebos.com/955ea0e434daf05ecb25c9c6751d96d81819e55d.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_762%2Ch_491%2Fformat%2Cf_auto%2Fquality%2Cq_80)
 			- A与B的差事件
@@ -638,17 +644,17 @@
 	-
 	- 图的欧拉公式
 		- 令 $$ G = (V, E) $$为一个连通的平面图(planar graph, 除在顶点外，任意两边不交叉)，V顶点集合，E边集合，R面集合， $$ |V|  - |E| + |R| = 2 $$
-<<<<<<< HEAD
+		  <<<<<<< HEAD
 	- map vs function
 		- https://math.stackexchange.com/questions/1912970/intutive-difference-between-linear-map-transformation-vs-linear-function
 		- https://solitaryroad.com/c303.html
 	- SO(3), SE(3)
 		- ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019012122093924.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4MTA1NDEz,size_16,color_FFFFFF,t_70){:height 503, :width 718}
 - ![](https://picx.zhimg.com/80/v2-9556051bfddd429ff14468693b0e1c75_1440w.webp?source=1940ef5c)
-=======
+  =======
 	- 完备性
 		- 通俗理解：完备的空间是指空间序列的极限包含在该空间里
 	- 函数光滑和解析
 		- 函数光滑（smooth）是说这个函数在定义域中任意一点都有任何阶的导数。
 		- 函数解析（analytic）是说函数光滑并且任意一点的泰勒级数都在该点的某临域内等于该函数
->>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
+		  >>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
