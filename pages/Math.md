@@ -228,11 +228,12 @@
 			- **在独立同分布条件下的随即变量平均值的表现**
 			- $$ S_{n} = \sum_{i=1}^{n}X_{i} $$
 		- 大数定律
-			- **样本均值收敛到总体均值** => 期望
+			- 样本容量极大时，**样本均值收敛到总体均值** => 期望 $$ \bar X\approx\mu $$
 			- $$ \frac{1}{n}S_{n} - E(X) \overset{P}{\rightarrow}  0 $$
 		- 中心极限定理
-			- 当样本足够大时，**样本均值的分布会慢慢变成正态分布**
+			- 当样本足够大时，**样本均值的抽样分布趋近于正态分布**（这和样本所属的总体的分布类型无关）
 			- $$ \sqrt{n}(\frac{S_{n}}{n} - E(X)) \overset{D}{\rightarrow} N(0, \sum) $$
+			- $$ \bar X\approx\mu+\frac{\sigma}{\sqrt n}\cdot N(0,1) $$
 		- 事件的运算及关系
 			- ![](http://exp-picture.cdn.bcebos.com/955ea0e434daf05ecb25c9c6751d96d81819e55d.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_762%2Ch_491%2Fformat%2Cf_auto%2Fquality%2Cq_80)
 			- A与B的差事件
