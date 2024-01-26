@@ -1,1 +1,5 @@
 - <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">Figma 新插件推荐：Any App Finder<br><br>快捷插入「应用程序图标」到 Figma 里面，设计过程中需要找应用图标简直太方便<a href="https://t.co/jEPNy9gkqA">https://t.co/jEPNy9gkqA</a> <a href="https://t.co/w3lsk7m6vM">pic.twitter.com/w3lsk7m6vM</a></p>&mdash; 四喜茶茶 (@sixichacha) <a href="https://twitter.com/sixichacha/status/1684041065760980992?ref_src=twsrc%5Etfw">July 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- Marketing
+	- [一周时间coding, 一周时间推广运营](https://www.bannerbear.com/blog/why-you-should-do-50-coding-and-50-marketing-as-a-solo-tech-founder/)
+	-
+-

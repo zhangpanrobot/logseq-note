@@ -11,13 +11,10 @@
 	- 拓扑
 		- **Topology (2nd Ed.)  by James Munkres**
 		- **Lie Groups, Lie Algebras, and Representations: An Elementary Introduction.  by Brian C. Hall**
-		  <<<<<<< HEAD
 - Blog
 	- [苏剑林](https://kexue.fm/)
-	  =======
 	- 其它教材
 		- [数学经典教材介绍 - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1292235183446392832)
-		  >>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
 - 学科
 	- Discrete Mathematics
 	  collapsed:: true
@@ -581,7 +578,7 @@
 		- 微分方程
 			-
 	- 线性代数
-	  collapsed:: true
+		- ![](https://pic1.zhimg.com/80/v2-d283d3fbf03b33a9487fe9837fa29486_1440w.webp?source=1def8aca)
 		- Vectors
 			- 定义
 				- A vector **v** is a set of numbers
@@ -638,9 +635,6 @@
 	- ![group2.png](../assets/group2_1684954400120_0.png)
 	- ![group3.png](../assets/group3_1684954411058_0.png)
 	- ![space.jpg](../assets/space_1684953073548_0.jpg){:height 379, :width 741}
-		-
-		-
-		-
 	- ![space1.png](../assets/space1_1684954358841_0.png)
 	-
 	- ![image.png](../assets/image_1687926657643_0.png)
@@ -662,17 +656,14 @@
 	-
 	- 图的欧拉公式
 		- 令 $$ G = (V, E) $$为一个连通的平面图(planar graph, 除在顶点外，任意两边不交叉)，V顶点集合，E边集合，R面集合， $$ |V|  - |E| + |R| = 2 $$
-		  <<<<<<< HEAD
 	- map vs function
 		- https://math.stackexchange.com/questions/1912970/intutive-difference-between-linear-map-transformation-vs-linear-function
 		- https://solitaryroad.com/c303.html
 	- SO(3), SE(3)
 		- ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019012122093924.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4MTA1NDEz,size_16,color_FFFFFF,t_70){:height 503, :width 718}
 - ![](https://picx.zhimg.com/80/v2-9556051bfddd429ff14468693b0e1c75_1440w.webp?source=1940ef5c)
-  =======
 	- 完备性
 		- 通俗理解：完备的空间是指空间序列的极限包含在该空间里
 	- 函数光滑和解析
 		- 函数光滑（smooth）是说这个函数在定义域中任意一点都有任何阶的导数。
 		- 函数解析（analytic）是说函数光滑并且任意一点的泰勒级数都在该点的某临域内等于该函数
-		  >>>>>>> 5963a81 ([logseq-plugin-git:commit] 2023-06-25T15:18:50.037Z)
