@@ -653,7 +653,10 @@
 		- **巴拿赫空间**：赋范空间 + 完备性。
 		- **希尔伯特空间**：内积空间(无限维) + 完备性。
 		- 注：范数比距离更具体，内积比范数更具体
-	-
+	- 级数收敛判断
+		- ![](https://pic2.zhimg.com/80/v2-b20a80141ce2691e53f37bab687a5735_1440w.webp){:height 913, :width 718}
+		- ![](https://pic1.zhimg.com/80/v2-761cf86c338e30025e8c847927cc7c53_1440w.webp?source=1def8aca){:height 1284, :width 718}
+		- ![](https://pic1.zhimg.com/80/v2-99cff1a475c875f1a60350a43d82accc_1440w.webp?source=1def8aca)
 	- 图的欧拉公式
 		- 令 $$ G = (V, E) $$为一个连通的平面图(planar graph, 除在顶点外，任意两边不交叉)，V顶点集合，E边集合，R面集合， $$ |V|  - |E| + |R| = 2 $$
 	- map vs function
@@ -661,7 +664,8 @@
 		- https://solitaryroad.com/c303.html
 	- SO(3), SE(3)
 		- ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019012122093924.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4MTA1NDEz,size_16,color_FFFFFF,t_70){:height 503, :width 718}
-- ![](https://picx.zhimg.com/80/v2-9556051bfddd429ff14468693b0e1c75_1440w.webp?source=1940ef5c)
+- ![](https://picx.zhimg.com/80/v2-9556051bfddd429ff14468693b0e1c75_1440w.webp?source=1940ef5c){:height 477, :width 780}
+	- ![](https://picx.zhimg.com/80/v2-31dd5b812607ac238782b1adfe1d4e7e_1440w.webp?source=1def8aca)
 	- 完备性
 		- 通俗理解：完备的空间是指空间序列的极限包含在该空间里
 	- 函数光滑和解析
