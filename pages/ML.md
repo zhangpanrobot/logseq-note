@@ -10,6 +10,9 @@
 	- **P2. 基于神经网络的完全监督学习** (Fully Supervised Learning, Neural Network)
 	- **P3. 预训练，精调范式** (Pre-train, Fine-tune)
 	- **P4. 预训练，提示，预测范式**（Pre-train, Prompt, Predict）
+- Book
+	- Python深度学习
+		- 机器学习中的学习指的是，寻找更好数据表示的自动搜索过程
 - Prompt Engineering
 	- source
 		- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
